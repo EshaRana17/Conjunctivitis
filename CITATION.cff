@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+type: software
+title: "Conjunctivitis Detection and Subtype Classification with a Truncated VGG-16"
+authors:
+  - family-names: Sabir
+    given-names: Esha
+    affiliation: "University of Sahiwal"
+repository-code: "https://github.com/EshaRana17/Conjunctivitis"
+license: MIT
+date-released: "2025-07-13"
+keywords:
+  - medical imaging
+  - ophthalmology
+  - conjunctivitis
+  - transfer learning
+  - VGG-16
