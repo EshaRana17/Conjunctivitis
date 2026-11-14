@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
 type: software
-title: "Conjunctivitis Detection and Subtype Classification with a Truncated VGG-16"
+title: "Conjunctivitis Detection and Subtype Classification with a Fine-Tuned VGG-16 (paper and code)"
 authors:
   - family-names: Sabir
     given-names: Esha
